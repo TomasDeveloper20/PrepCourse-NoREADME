@@ -1,0 +1,3 @@
+Nombres = Tomas Bautista
+Apellido = Fernandez
+Edad = 18
